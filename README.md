@@ -26,7 +26,7 @@ Install the required dependencies:
 
 shell
 
-    pip install -r pycryptodome pypiwin32
+    pip install pycryptodome pypiwin32
 
 Usage
 
