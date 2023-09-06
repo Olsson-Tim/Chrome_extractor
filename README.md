@@ -26,7 +26,7 @@ Install the required dependencies:
 
 shell
 
-    pip install pycryptodome pypiwin32
+    pip install pycryptodome pypiwin32 tkinter
 
 Usage
 
